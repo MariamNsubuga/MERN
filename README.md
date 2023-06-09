@@ -24,8 +24,11 @@ Configuring App
 If you have all the prerequisites installed you should verify if your MongoDB is up.
 
 $ cd MERN
+
 $ cd server
+
 $ npm run app
+
 **incase you get errors **
 $ npm install
 $ npm run app
