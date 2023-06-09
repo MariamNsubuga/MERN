@@ -30,11 +30,16 @@ $ cd server
 $ npm run app
 
 **incase you get errors **
+
 $ npm install
+
 $ npm run app
 
 
 $ cd MERN
+
 $ cd client
+
 $ npm install
+
 $ npm start
