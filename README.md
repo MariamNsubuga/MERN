@@ -2,7 +2,7 @@
 This repository is for a simple CRUD MERN Hotel management system. 
 **What you should install?**
 
-For this project, I usedse the MERN (MongoDB, Express.js, React.js, and Node.js) technology. mern
+For this project, I used the MERN (MongoDB, Express.js, React.js, and Node.js) technology. mern
 
 Firstly, you should install
 
@@ -35,7 +35,7 @@ $ npm install
 
 $ npm run app
 
-**for the client run the following commands**
+**For the client run the following commands**
 $ cd MERN
 
 $ cd client
