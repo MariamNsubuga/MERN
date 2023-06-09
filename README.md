@@ -35,7 +35,7 @@ $ npm install
 
 $ npm run app
 
-
+**for the client run the following commands**
 $ cd MERN
 
 $ cd client
